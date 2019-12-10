@@ -1,0 +1,23 @@
+body{
+    background-color: #000;
+    color: #fff;
+    margin: 0px;
+}
+
+img{
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #732878;
+    height: 80px;
+}
+
+nav a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
